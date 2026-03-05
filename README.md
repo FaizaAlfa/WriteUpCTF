@@ -3,8 +3,9 @@ Write Up Kecil - Kecilan
 
 # Contents
 
-| Year          | No            | Challange Solved  | [WriteUp]()
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Year          | Competition |Challange Solved  | Write Up |
+| ------ | ---- | ---- |----------------------- |
+| 2025 | CodEx CTF POROS X BCC UB | 9 | [Here](https://github.com/FaizaAlfa/WriteUpCTF/tree/main/CodEx25) |
+| 2025 | ARA CTF 7.0 | 5 | [Here](https://github.com/FaizaAlfa/WriteUpCTF/tree/main/ARACTF7) |
+| 2026 | Freepass POROS UB | 16 | [Here](WriteUp](https://github.com/FaizaAlfa/WriteUpCTF/tree/main/FreepassPoros26)) |
+
